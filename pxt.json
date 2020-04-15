@@ -1,0 +1,15 @@
+{
+    "name": "test_dht11", 
+    "version": "0.0.1", 
+    "description": "Copyright belongs to lioujj/pxt-DHT11", 
+    "license": "MIT", 
+    "dependencies": { 
+        "core": "*"
+    },
+    "files": [ 
+        "main.ts",
+        "README.md"
+    ],
+
+    "public": true
+}
