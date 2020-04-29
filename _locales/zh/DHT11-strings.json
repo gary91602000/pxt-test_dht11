@@ -1,0 +1,6 @@
+{
+    "test_dht11|block": "溫濕度",
+    "test_dht11.setPin|block": "設定DHT11連接到引腳 %myPin",
+    "test_dht11.temperature|block": "溫度",
+    "test_dht11.humidity|block": "濕度"
+}
